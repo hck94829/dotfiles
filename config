@@ -1,0 +1,10 @@
+# CAEN
+Host caen
+	HostName login.engin.umich.edu
+	User hucheng
+	Compression yes
+# Github
+Host Github
+	HostName github.com
+	User hck94829
+	IndentityFile ~/.ssh/id_rsa.pub/
