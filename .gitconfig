@@ -1,0 +1,4 @@
+[core]
+	editor = /usr/local/bin/vim
+[user]
+	email = hucheng@umich.edu
